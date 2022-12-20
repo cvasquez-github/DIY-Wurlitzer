@@ -6,4 +6,4 @@
 VU Meter using Arduino:
 https://github.com/cvasquez-github/arduino-vu-meter-led
 
-Video on Instagram: https://www.instagram.com/tv/CbPt0gJgOKf/
+Video on Instagram (Posted by MCI Electronics): https://www.instagram.com/tv/CbPt0gJgOKf/
